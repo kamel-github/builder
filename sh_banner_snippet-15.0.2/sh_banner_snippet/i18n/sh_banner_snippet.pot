@@ -1,0 +1,464 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_banner_snippet
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-23 07:47+0000\n"
+"PO-Revision-Date: 2020-10-23 07:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_6
+msgid "#Furniture"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_6
+msgid "#Indoor"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_6
+msgid "#Sitting"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_20
+msgid "37 sets - 40% off - just only this week"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+msgid "40% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "50% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "<span>Black Frieday</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "<span>Currently On</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>Don't Miss Today</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_21
+msgid "<span>From $60.99 - Sale 20%</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>New Collection</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>Take 20% off</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>Your Look</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+msgid "<span>limit time offer!</span>"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "All vegetable products"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_22
+msgid "Ambassador Heritable"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet
+msgid "Banner Snippet"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Black <br/> &amp; White"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_20
+msgid "Boxing Glover"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Buy Now"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Classic Watch"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Confortable Fitting"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_21
+msgid "Design Creative"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_22
+msgid "Discover Now"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_23
+msgid "Dry Fruits"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+msgid "Even thehottest day Wont't slow you down"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_22
+msgid "Exclusive Offer -20% Off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Fresh &amp; Healthy"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Fruits"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Get Invited"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+msgid "Get the best deal now"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Get upto 25% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Girl <br/> &amp; collection"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Gizmo"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Gold Watch"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Great Brands. <br/> Sale Price"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Hot Trends"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "In Fashion"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Just black &amp; white. Stay Elegent"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Learn More"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Learn more"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+msgid "Leather bag"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Man's watches"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Men"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Minimum 10% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Minimum 40% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+msgid "Modern Design!"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "Must Have"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "Natural"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "Need Now"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+msgid "New Collection <br/> 2019!"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "New Watch"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "New arrivals men's collection"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Newest outfits for men has just arrived."
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+msgid "Our new arrivals"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_21
+msgid "Ring Jewelry Design"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+msgid "Run collection"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Sale"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Sale 50% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Save 30%"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Save 50%"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_12
+msgid "Save <span>30% off</span> digital watch"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Save Upto 35% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_23
+msgid "Shop Now"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Shop now"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+msgid "Spring In Style"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Summer &amp; Automun"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "Summer day ahead"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "The classic men issue"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+msgid "The half price winter"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Time"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "To help reduce fatigue"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Unique Watches from classic collection"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Up to 50% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Vegetables"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "View Product"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "Winter Spring"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Women"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+msgid "extra 50% off"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "frech <br/> collection"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+msgid "sale"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "save upto 70% off on all products"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "shop now"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+msgid "special offer for you"
+msgstr ""
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "up to 25% off"
+msgstr ""

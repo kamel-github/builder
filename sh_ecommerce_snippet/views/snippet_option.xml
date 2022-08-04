@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- snippet options -->
+    <template id="sh_product_snippet_options" inherit_id="website.snippet_options" name="Product List Options">
+        <xpath expr="//div" position="after">
+            <div data-selector=".js_cls_get_sh_ecom_s_product">
+                <!-- <t t-set="sh_categs" t-value="request.env['product.public.category'].search([])" />
+	                    <t t-if="len(sh_categs)">
+       						
+       						<t t-foreach="sh_categs" t-as="sh_categ">	                          		 	
+	                   		 	   <t t-set="sh_categ_cls" t-value="'sh_categ_' + str(sh_categ.id) + '_cend'"/>	            					                		  
+            						<we-checkbox t-att-string="sh_categ.name" t-att-data-select-class="sh_categ_cls" /> 								  
+	                   		</t>
+	                   	</t>  
+
+            <we-select string="Order by" data-attribute-name="data-order">
+                <we-button data-select-attribute="">default</we-button>
+                <we-button data-select-attribute="name asc">name (A-Z)</we-button>
+                <we-button data-select-attribute="name desc">name (Z-A)</we-button>
+                <we-button data-select-attribute="website_sequence asc">Sequence asc</we-button>
+                <we-button data-select-attribute="website_sequence desc">Sequence desc</we-button>    
+                <we-button data-select-attribute="list_price asc">Sale Price asc</we-button>
+                <we-button data-select-attribute="list_price desc">Sale Price desc</we-button>
+                <we-button data-select-attribute="create_date asc">Create Date asc</we-button>
+                <we-button data-select-attribute="create_date desc">Create Date desc</we-button>                    
+                                            
+            </we-select>-->
+
+                <!-- Shows   -->
+                <we-checkbox string="Add to Cart" data-select-data-attribute="true" data-attribute-name="displayAddtocart" />
+                <we-checkbox string="Description" data-select-data-attribute="true" data-attribute-name="displayDescription" />
+                <we-checkbox string="Wish List" data-select-data-attribute="true" data-attribute-name="displayWishlist" />
+                <we-checkbox string="Sale Price" data-select-data-attribute="true" data-attribute-name="displaySaleprice" />
+                <we-checkbox string="Rating" data-select-data-attribute="true" data-attribute-name="displayRating" />
+                <we-checkbox string="Category" data-select-data-attribute="true" data-attribute-name="displayCategory" />
+                <!-- <we-checkbox string="Compare" data-select-data-attribute="true" data-attribute-name="displayCompare"/> -->
+                <!-- Limit 
+            <t t-set="unit">products</t>
+            <we-input string="Limit" data-attribute-name="limit" data-select-data-attribute="" t-att-data-unit="unit"/>-->
+
+                <!-- Filter -->
+                <we-select string="Filter" data-name="sh_filter_opt" data-attribute-name="filterId">
+                    <we-button data-select-data-attribute="">None</we-button>
+                    <t t-set="sh_filters" t-value="request.env['sh.ecom.s.filter'].search([])" />
+                    <t t-if="len(sh_filters)">
+                        <t t-foreach="sh_filters" t-as="sh_filter">
+                            <we-button t-att-data-select-data-attribute="sh_filter.id">
+                                <t t-esc="sh_filter.name" />
+                            </we-button>
+                        </t>
+                    </t>
+                </we-select>
+            </div>
+        </xpath>
+    </template>
+</odoo>

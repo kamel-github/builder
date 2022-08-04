@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="sh_ecommerce_snippet_product_template_form_view" model="ir.ui.view">
+        <field name="name">sh.ecommerce.snippet.product.template.form.view</field>
+        <field name="model">product.template</field>
+        <field name="inherit_id" ref="website_sale.product_template_form_view" />
+        <field name="arch" type="xml">
+            <!-- add fields for snippet top seeling alternative etc  -->
+            <xpath expr="//page[@name='shop']//group[@name='shop']" position="after">
+                <group name="group_sh_ecommerce_snippet">
+                    <group string="eCommerce Snippets">
+                        <field name="sh_ecommerce_snippet_is_top_selling_product" />
+                        <field name="sh_ecommerce_snippet_is_featured_product" />
+                        <field name="sh_ecommerce_snippet_is_alternative_product" />
+                        <field name="sh_ecommerce_snippet_is_new_arrival" />
+                    </group>
+                </group>
+            </xpath>
+        </field>
+    </record>
+</odoo>

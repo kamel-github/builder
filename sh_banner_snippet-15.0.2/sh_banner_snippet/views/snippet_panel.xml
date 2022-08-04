@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <template id="sh_banner_snippet" inherit_id="website.snippets" name="Banner Snippet">
+        <xpath expr="//div[@id='snippet_structure']" position="after">
+            <div id="sh_banner_snippet" class="o_panel">
+                <div class="o_panel_header">
+                    Banner Snippet
+                </div>
+
+                <div class="o_panel_body">
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_1" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/1.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_2" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/2.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_3" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/3.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_5" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/5.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_6" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/6.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_7" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/7.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_10" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/10.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_11" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/11.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_12" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/12.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_13" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/13.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_15" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/15.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_16" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/16.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_17" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/17.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_18" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/18.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_19" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/19.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_20" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/20.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_21" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/21.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_22" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/22.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_23" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/23.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_24" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/24.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_25" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/25.png" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_26" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/26.svg" />
+                    <t t-snippet="sh_banner_snippet.sh_banner_snippet_tmpl_27" t-thumbnail="/sh_banner_snippet/static/src/img/blocks/27.svg" />
+                </div>
+            </div>
+        </xpath>
+    </template>
+</odoo>

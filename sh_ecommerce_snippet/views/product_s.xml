@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Snippet 1 -->
+    <template id="sh_ecom_snippet_tmpl_1" name="Snippet 1">
+        <section id="sh_ecom_snippet_1" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_1" data-column_class="col-md-4" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_1_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_1_item_single_tab">
+            <div class="container">
+                <div class="heading text-center">
+                    <h3>Popular Products</h3>
+                </div>
+
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 1 -->
+
+    <!-- Snippet 2 -->
+
+    <template id="sh_ecom_snippet_tmpl_2" name="Snippet 2">
+        <section id="sh_ecom_snippet_2" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_2" data-column_class="col-md-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_2_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_2_item_single_tab">
+            <div class="container">
+                <div class="heading text-center">
+                    <h3>Featured Products</h3>
+                </div>
+
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+
+    <!-- Snippet 2 -->
+
+    <!-- Snippet 3 -->
+    <template id="sh_ecom_snippet_tmpl_3" name="Snippet 3">
+        <section id="sh_ecom_snippet_3" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_3" data-column_class="col-md-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_3_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_3_item_single_tab">
+            <div class="container">
+                <div class="heading text-center">
+                    <h4>New Arrival</h4>
+                </div>
+
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 3 -->
+
+    <!-- Snippet 4 -->
+    <template id="sh_ecom_snippet_tmpl_4" name="Snippet 4">
+        <section id="sh_ecom_snippet_4" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_4" data-column_class="col-md-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_4_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_4_item_single_tab">
+            <div class="container">
+                <div class="heading text-center">
+                    <h4>Featured Products</h4>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 4 -->
+
+    <!-- Snippet 5 -->
+    <template id="sh_ecom_snippet_tmpl_5" name="Snippet 5">
+        <section id="sh_ecom_snippet_5" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_5" data-column_class="col-md-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_5_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_5_item_single_tab">
+            <div class="container">
+                <div class="heading text-center">
+                    <h3>Featured Products</h3>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 5 -->
+
+    <!-- Snippet 6 -->
+    <template id="sh_ecom_snippet_tmpl_6" name="Snippet 6">
+        <section id="sh_ecom_snippet_6" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_6" data-column_class="col-md-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_6_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_6_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 6 -->
+
+    <!-- Snippet 7 -->
+    <template id="sh_ecom_snippet_tmpl_7" name="Snippet 7">
+        <section id="sh_ecom_snippet_7" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_7" data-column_class="col-md-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_7_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_7_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                    <div class="main_div">
+                        <span>BESTSELLER</span>
+                    </div>
+                </div>
+
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 7 -->
+
+    <!-- Snippet 8 -->
+    <template id="sh_ecom_snippet_tmpl_8" name="Snippet 8">
+        <section id="sh_ecom_snippet_8" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_8" data-column_class="col-md-3 pr-0 pl-0" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_8_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_8_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 8 -->
+
+    <!-- Snippet 9 -->
+    <template id="sh_ecom_snippet_tmpl_9" name="Snippet 9">
+        <section id="sh_ecom_snippet_9" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_9" data-column_class="col-md-3 pr-0 pl-0" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_9_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_9_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 9 -->
+
+    <!-- Snippet 10 -->
+    <template id="sh_ecom_snippet_tmpl_10" name="Snippet 10">
+        <section id="sh_ecom_snippet_10" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_10" data-column_class="col-md-3 pr-0 pl-0 pb-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_10_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_10_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 10 -->
+
+
+    <!-- Snippet 11 -->
+    <template id="sh_ecom_snippet_tmpl_11" name="Snippet 11">
+        <section id="sh_ecom_snippet_11" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_11" data-column_class="col-md-3 pr-0 pl-0 pb-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_11_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_11_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 11 -->
+
+    <!-- Snippet 12 -->
+    <template id="sh_ecom_snippet_tmpl_12" name="Snippet 12">
+        <section id="sh_ecom_snippet_12" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_12" data-column_class="col-md-3 pr-0 pl-0 pb-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_12_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_12_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 12 -->
+
+
+    <!-- Snippet 13 -->
+    <template id="sh_ecom_snippet_tmpl_13" name="Snippet 13">
+        <section id="sh_ecom_snippet_13" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_13" data-column_class="col-md-3 pr-0 pl-0 pb-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_13_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_13_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 13 -->
+
+
+    <!-- Snippet 14 -->
+    <template id="sh_ecom_snippet_tmpl_14" name="Snippet 14">
+        <section id="sh_ecom_snippet_14" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_14" data-column_class="col-md-3 pr-0 pl-0 pb-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_14_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_14_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 14 -->
+
+    <!-- Snippet 15 -->
+    <template id="sh_ecom_snippet_tmpl_15" name="Snippet 15">
+        <section id="sh_ecom_snippet_15" class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_15" data-column_class="col-md-3 pr-0 pl-0 pb-3" data-owl_item_mobile="1" data-owl_item_tablet="2" data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_15_item" data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_15_item_single_tab">
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                    <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 15 -->
+
+    <!-- Snippet 16 -->
+    <template id="sh_ecom_snippet_tmpl_16" name="Snippet 16">
+        <section
+            id="sh_ecom_snippet_16"
+            class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_16"
+            data-column_class="col-lg col-md-6 col-12 pr-0 pl-0 pb-3"
+            data-owl_item_mobile="1"
+            data-owl_item_tablet="2"
+            data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_16_item"
+            data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_16_item_single_tab"
+        >
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                   
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 16 -->
+
+     <!-- Snippet 17 -->
+     <template id="sh_ecom_snippet_tmpl_17" name="Snippet 17">
+        <section
+            id="sh_ecom_snippet_17"
+            class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_17"
+            data-column_class="col-lg col-md-6 col-12 pr-0 pl-0 pb-3"
+            data-owl_item_mobile="1"
+            data-owl_item_tablet="2"
+            data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_17_item"
+            data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_17_item_single_tab"
+        >
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                   
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 17 -->
+    
+     <!-- Snippet 18 -->
+     <template id="sh_ecom_snippet_tmpl_18" name="Snippet 18">
+        <section
+            id="sh_ecom_snippet_18"
+            class="js_cls_get_sh_ecom_s_product sh_ecom_snippet_section_18"
+            data-column_class="pr-0 pl-0 pb-3"
+            data-owl_item_mobile=""
+            data-owl_item_tablet=""
+            data-item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_18_item"
+            data-single_tab_item_template="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_18_item_single_tab"
+        >
+            <div class="container">
+                <div class="sh_title">
+                    <h3>Featured Products</h3>
+                    <div class="sh_divider"></div>
+                   <p>
+                        Display any products as tabs or accordions with optional grid or carousel mode. Custom products per row per module and per breakpoint. Each module can display products in either grid or list view with different
+                        styles per module.
+                    </p>
+                </div>
+                <div class="js_cls_render_dynamic_product_area oe_website_sale o_not_editable" />
+            </div>
+        </section>
+    </template>
+    <!-- Snippet 18 -->
+</odoo>

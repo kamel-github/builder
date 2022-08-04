@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="sh_ecommerce_snippet_website_snippets" inherit_id="website.snippets" name="Ecommerce Snippet">
+        <xpath expr="//div[@id='snippet_structure']" position="before">
+            <div id="sh_ecommerce_snippet" class="o_panel">
+                <div class="o_panel_header">
+                    ecommerce snippet
+                </div>
+                <div class="o_panel_body">
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_1" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/1.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_2" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/2.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_3" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/3.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_4" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/4.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_5" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/5.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_6" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/6.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_7" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/7.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_8" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/8.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_9" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/9.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_10" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/10.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_11" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/11.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_12" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/12.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_13" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/13.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_14" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/14.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_15" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/15.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_16" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/16.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_17" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/17.svg" />
+                    <t t-snippet="sh_ecommerce_snippet.sh_ecom_snippet_tmpl_18" t-thumbnail="/sh_ecommerce_snippet/static/src/img/blocks/table.svg" />
+                </div>
+            </div>
+        </xpath>
+    </template>
+</odoo>

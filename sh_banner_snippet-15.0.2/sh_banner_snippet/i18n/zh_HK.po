@@ -1,0 +1,466 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sh_banner_snippet
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-23 07:47+0000\n"
+"PO-Revision-Date: 2020-10-23 07:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_6
+msgid "#Furniture"
+msgstr "＃家具"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_6
+msgid "#Indoor"
+msgstr "＃室内"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_6
+msgid "#Sitting"
+msgstr "＃坐着"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_20
+msgid "37 sets - 40% off - just only this week"
+msgstr "37套-40％折扣-仅在本周"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+msgid "40% off"
+msgstr "40％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "50% off"
+msgstr "50折优惠"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "<span>Black Frieday</span>"
+msgstr "<span>黑色星期五</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "<span>Currently On</span>"
+msgstr "<span>目前开启</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>Don't Miss Today</span>"
+msgstr "<span>今天不要错过</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_21
+msgid "<span>From $60.99 - Sale 20%</span>"
+msgstr "<span>从$ 60.99-出售20％</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>New Collection</span>"
+msgstr "<span>新系列</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>Take 20% off</span>"
+msgstr "<span>减20％</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "<span>Your Look</span>"
+msgstr "<span>你的样子</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+msgid "<span>limit time offer!</span>"
+msgstr "<span>限时优惠！</span>"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "All vegetable products"
+msgstr "所有蔬菜产品"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_22
+msgid "Ambassador Heritable"
+msgstr "遗传大使"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet
+msgid "Banner Snippet"
+msgstr "横幅摘要"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Black <br/> &amp; White"
+msgstr "黑色 <br/> &amp; 白色"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_20
+msgid "Boxing Glover"
+msgstr "拳击手套"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Buy Now"
+msgstr "立即购买"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Classic Watch"
+msgstr "经典手表"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Confortable Fitting"
+msgstr "舒适的配件"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_21
+msgid "Design Creative"
+msgstr "设计创意"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_22
+msgid "Discover Now"
+msgstr "立即发现"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_23
+msgid "Dry Fruits"
+msgstr "干果"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+msgid "Even thehottest day Wont't slow you down"
+msgstr "即使是最热的一天也不会让你失望"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_22
+msgid "Exclusive Offer -20% Off"
+msgstr "独家优惠-20％折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Fresh &amp; Healthy"
+msgstr "新鲜的健康"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Fruits"
+msgstr "水果"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Get Invited"
+msgstr "被邀请"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_1
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_2
+msgid "Get the best deal now"
+msgstr "立即获得最优惠的价格"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Get upto 25% off"
+msgstr "享受25％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Girl <br/> &amp; collection"
+msgstr "女孩 <br/> &amp; 采集"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Gizmo"
+msgstr "小发明"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Gold Watch"
+msgstr "金表"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Great Brands. <br/> Sale Price"
+msgstr "伟大的品牌。 <br/> 销售价格"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Hot Trends"
+msgstr "热门趋势"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "In Fashion"
+msgstr "时尚"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Just black &amp; white. Stay Elegent"
+msgstr "只是黑色＆amp;白色。保持优雅"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Learn More"
+msgstr "学到更多"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Learn more"
+msgstr "学到更多"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+msgid "Leather bag"
+msgstr "皮革包"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Man's watches"
+msgstr "男士手表"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Men"
+msgstr "男装"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Minimum 10% off"
+msgstr "至少10％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Minimum 40% off"
+msgstr "至少40％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+msgid "Modern Design!"
+msgstr "现代设计！"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "Must Have"
+msgstr "一定有"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "Natural"
+msgstr "自然"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "Need Now"
+msgstr "现在需要"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+msgid "New Collection <br/> 2019!"
+msgstr "新系列 <br/> 2019!"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "New Watch"
+msgstr "新手表"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "New arrivals men's collection"
+msgstr "新品上架"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Newest outfits for men has just arrived."
+msgstr "最新的男士服装已经到来。"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+msgid "Our new arrivals"
+msgstr "我们的新品"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_21
+msgid "Ring Jewelry Design"
+msgstr "戒指首饰设计"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+msgid "Run collection"
+msgstr "运行收集"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Sale"
+msgstr "特卖"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Sale 50% off"
+msgstr "减价50％"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Save 30%"
+msgstr "节省30％"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Save 50%"
+msgstr "节省50％"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_12
+msgid "Save <span>30% off</span> digital watch"
+msgstr "保存 <span>30% 关</span> 电子表"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_13
+msgid "Save Upto 35% off"
+msgstr "节省高达35％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_10
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_20
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_23
+msgid "Shop Now"
+msgstr "现在去购物"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "Shop now"
+msgstr "现在去购物"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_11
+msgid "Spring In Style"
+msgstr "春天风格"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_7
+msgid "Summer &amp; Automun"
+msgstr "夏季＆amp;自动门"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "Summer day ahead"
+msgstr "未来的夏日"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "The classic men issue"
+msgstr "经典男人问题"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+msgid "The half price winter"
+msgstr "冬季半价"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Time"
+msgstr "时间"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "To help reduce fatigue"
+msgstr "为了减轻疲劳"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_17
+msgid "Unique Watches from classic collection"
+msgstr "经典系列中的独特手表"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "Up to 50% off"
+msgstr "高达50％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_24
+msgid "Vegetables"
+msgstr "蔬菜"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_25
+msgid "View Product"
+msgstr "查看产品"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_3
+msgid "Winter Spring"
+msgstr "冬春"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_15
+msgid "Women"
+msgstr "女装"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+msgid "extra 50% off"
+msgstr "额外50％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_5
+msgid "frech <br/> collection"
+msgstr "雀斑 <br/> 采集"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_19
+msgid "sale"
+msgstr "销售"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "save upto 70% off on all products"
+msgstr "节省所有产品高达70％的折扣"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "shop now"
+msgstr "现在去购物"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_16
+msgid "special offer for you"
+msgstr "为您提供特别优惠"
+
+#. module: sh_banner_snippet
+#: model_terms:ir.ui.view,arch_db:sh_banner_snippet.sh_banner_snippet_tmpl_18
+msgid "up to 25% off"
+msgstr "高达25％的折扣"
